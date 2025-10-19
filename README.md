@@ -35,10 +35,6 @@ Through **data cleaning**, **exploratory data analysis (EDA)**, and **segmentati
 
 ---
 
-## 📂 Project Structure  
-
-
----
 
 ## 📈 Key Insights  
 
